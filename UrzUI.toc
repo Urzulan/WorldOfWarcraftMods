@@ -1,0 +1,8 @@
+## Interface: 80100
+## Title: UrzUI
+## Version: 1.55
+## Notes: A leaner interface with some added quality of life features.
+## Author: Urzula - Chamber of Aspects (EU)
+## SavedVariables: UrzVariables
+
+UrzUI.lua
